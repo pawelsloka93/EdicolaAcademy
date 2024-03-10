@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\bin\Debug\net8.0\EdicolaAcademy.exe
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\bin\Debug\net8.0\EdicolaAcademy.deps.json
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\bin\Debug\net8.0\EdicolaAcademy.runtimeconfig.json
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\bin\Debug\net8.0\EdicolaAcademy.dll
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\bin\Debug\net8.0\EdicolaAcademy.pdb
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.AssemblyInfo.cs
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.dll
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\refint\EdicolaAcademy.dll
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.pdb
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\EdicolaAcademy.genruntimeconfig.cache
+C:\Users\Utente\source\repos\EdicolaAcademy\EdicolaAcademy\obj\Debug\net8.0\ref\EdicolaAcademy.dll
